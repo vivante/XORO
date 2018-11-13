@@ -1,0 +1,7 @@
+prettytensor
+progressbar
+python-dateutil
+easydict
+pandas
+torchfile
+scipy
